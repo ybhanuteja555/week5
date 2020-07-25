@@ -1,0 +1,15 @@
+2020-02-26 21:28:21 INFO  App:24 - ---Please enter total area of the house(in square feet)---
+2020-02-26 21:28:34 INFO  App:26 - ---Enter 1 if you opt for a fully automated house otherwise enter 0---
+2020-02-26 21:28:38 INFO  App:31 - Your estimated house construction cost is Rs.2500000.0
+2020-02-26 21:28:38 INFO  App:32 - Do you want to continue?
+enter 1 to continue otherwise enter 0
+2020-02-26 21:28:41 INFO  App:24 - ---Please enter total area of the house(in square feet)---
+2020-02-26 21:28:44 INFO  App:26 - ---Enter 1 if you opt for a fully automated house otherwise enter 0---
+2020-02-26 21:28:47 INFO  App:41 - ---PLease select an option for the type of material to be used for construction---
+2020-02-26 21:28:47 INFO  App:42 - ---Enter 1 for standard materials---
+2020-02-26 21:28:47 INFO  App:43 - ---Enter 2 for above standard materials---
+2020-02-26 21:28:47 INFO  App:44 - ---Enter 3 for high standard material---
+2020-02-26 21:28:51 INFO  App:60 - Your estimated house construction cost is Rs.750000.0
+2020-02-26 21:28:51 INFO  App:61 - Do you want to continue?
+enter 1 to continue otherwise enter 0
+2020-02-26 21:28:55 INFO  App:66 - Thank you
